@@ -1,7 +1,7 @@
-# TrafficSignDetection-with-FeatureMatching-SiftAlgorithm-
+## TrafficSignDetection-with-FeatureMatching-SiftAlgorithm-
 Implementation of Feature Matching - SIFT Algorithm  
 
-Bibliography:
+### Bibliography:
 
 1- Dataset: German Traffic Sign Benchmark
 Link: http://benchmark.ini.rub.de/
